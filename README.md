@@ -5,7 +5,6 @@ A collection of open-source tools for working with the Cooper Hewitt collections
 
 |Language/Framework|Contributor|Stability|
 |---|---|---|
-|C# (coming soon)|||
 |[Flamework](https://github.com/cooperhewitt/flamework-cooperhewitt-api)|@cooperhewitt||
 |[Go](https://github.com/cooperhewitt/go-cooperhewitt-api)|@cooperhewitt||
 |[Node](https://github.com/cooperhewitt/node-cooperhewitt)|@cooperhewitt||
